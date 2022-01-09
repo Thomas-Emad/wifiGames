@@ -196,6 +196,7 @@
 }
 .games .container .cont .box img {
   width: 100%;
+  height: 348.66px;
   transition: var(--transition);
 }
 .games .container .cont .box:hover img {
